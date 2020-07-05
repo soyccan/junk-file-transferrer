@@ -1,0 +1,3 @@
+[submodule "ksocket"]
+	path = ksocket
+	url = git@github.com:soyccan/ksocket.git
